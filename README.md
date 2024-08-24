@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm IzuuCode!
+# 👋 Hi there, I'm Isuru Jayanada!
 
 Welcome to my GitHub profile! I'm passionate about Java development, exploring the vast possibilities within the ICT field, and connecting with fellow tech enthusiasts.
 

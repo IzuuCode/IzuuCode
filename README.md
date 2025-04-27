@@ -8,7 +8,7 @@ I'm on a continuous learning journey, and right now, I'm focused on mastering py
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [Telegram](https://t.me/https://t.me/IzuruJay) or [LinkedIn](https://www.linkedin.com/in/suru-jayanada-044738265/). I'm always excited to connect and exchange ideas.
+Feel free to reach out to me via [Telegram](https://t.me/https://t.me/IzuruJay) or [LinkedIn](https://www.linkedin.com/in/isuru-jayanada-044738265/). I'm always excited to connect and exchange ideas.
 
 
 Let's code and create something awesome together! 🚀

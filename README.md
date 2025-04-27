@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Isuru Jayanada!
+# 👋 Hi there, I'm [Isuru Jayanada](https://isurujayanada.me/)
 
 Welcome to my GitHub profile! I'm passionate about programming, exploring the vast possibilities within the ICT field, and connecting with fellow tech enthusiasts.
 

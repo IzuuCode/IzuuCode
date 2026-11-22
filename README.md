@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Technology (Hons) in ICT** gra
 
 ## 📫 How to Reach Me
 
-* 🌐 **Portfolio:** [isurujayanada.me](https://isurujayanada.me/)
+* 🌐 **Portfolio:** [https://isurujayanada.live](https://isurujayanada.live/)
 * 💼 **LinkedIn:** [linkedin.com/in/isuru-jayanada-044738265](https://www.linkedin.com/in/isuru-jayanada-044738265/)
 * 📧 **Email:** [isurujayanada2002@gmail.com](mailto:isurujayanada2002@gmail.com)
 

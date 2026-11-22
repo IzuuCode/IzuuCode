@@ -4,7 +4,7 @@
 
 **ICT Graduate • Software & Embedded IoT Developer • AI Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-isurujayanada.me-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isurujayanada.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-isurujayanada.live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isurujayanada.live/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-jayanada-044738265/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurujayanada2002@gmail.com)
 

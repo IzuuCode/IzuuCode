@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm [Isuru Jayanada](https://isurujayanada.me/)
+# 👋 Hi there, I'm [Isuru Jayanada](https://isurujayanada.live/)
 
 **ICT Graduate • Software & Embedded IoT Developer • AI Enthusiast**
 
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a **Bachelor of Technology (Hons) in ICT** gra
 
 ## 🌱 Currently Exploring & Building
 
-* 🐍 **Python & AI:** Deepening my expertise in Python and machine learning integrations.
-* 🤖 **Bot Development:** Building Telegram bots for real-time automation and communication.
-* 📡 **IoT & Smart Systems:** Developing sensor-driven hardware prototypes and cloud dashboards.
+- 🐍 **Python & AI:** Deepening my expertise in Python and machine learning integrations.
+- 🤖 **Bot Development:** Building Telegram bots for real-time automation and communication.
+- 📡 **IoT & Smart Systems:** Developing sensor-driven hardware prototypes and cloud dashboards.
 
 ---
 
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a **Bachelor of Technology (Hons) in ICT** gra
 
 <div align="center">
 
-![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzuuCode&show_icons=true&theme=tokyonight&hide_border=true)
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzuuCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuuCode&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -58,9 +58,9 @@ Welcome to my GitHub profile! I'm a **Bachelor of Technology (Hons) in ICT** gra
 
 ## 📫 How to Reach Me
 
-* 🌐 **Portfolio:** [https://isurujayanada.live](https://isurujayanada.live/)
-* 💼 **LinkedIn:** [linkedin.com/in/isuru-jayanada-044738265](https://www.linkedin.com/in/isuru-jayanada-044738265/)
-* 📧 **Email:** [isurujayanada2002@gmail.com](mailto:isurujayanada2002@gmail.com)
+- 🌐 **Portfolio:** [https://isurujayanada.live](https://isurujayanada.live/)
+- 💼 **LinkedIn:** [linkedin.com/in/isuru-jayanada-044738265](https://www.linkedin.com/in/isuru-jayanada-044738265/)
+- 📧 **Email:** [isurujayanada2002@gmail.com](mailto:isurujayanada2002@gmail.com)
 
 ---
 
